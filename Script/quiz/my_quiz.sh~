@@ -1,0 +1,6 @@
+#!/bin/bash
+
+initialize(){
+    num_ques=0
+    correct_ans=0
+}
